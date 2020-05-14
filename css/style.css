@@ -95,3 +95,22 @@ html {
 .left {
     margin-bottom: 2.5rem;
 }
+
+.card-text {
+    color: var(--grey-dark-2);
+    font-weight: 300;
+    margin: 2rem 0;
+}
+
+.footer {
+    color: var(--grey-dark-3);
+    font-size: 1.6rem;
+    margin: 1rem auto;
+    text-align: center;
+    padding: 0 2rem;
+}
+
+.footer a {
+    color: var(--color-red);
+    text-decoration: none;
+}
